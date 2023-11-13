@@ -1,9 +1,7 @@
 <h1 >Hi 👋, I'm Soufiane</h1>
 <h3 >A passionate computer science student</h3>
 
-- 🔭 I’m currently working on [Open PicNic](https://github.com/dept-info-iut-dijon/SAES3-C1Z-OpenPicNic.git)
-
-- 🌱 I’m currently learning **React and Java**
+- 🌱 I’m currently learning **React and Spring**
 
 - 📫 How to reach me **soufianezzemany@gmail.com**
 
